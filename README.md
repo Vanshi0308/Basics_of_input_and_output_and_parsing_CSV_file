@@ -1,4 +1,4 @@
-# Getting started VS code and C programming language
+# Getting started with VS code and C programming language
 
 #### By Vanshika Sinha
 
